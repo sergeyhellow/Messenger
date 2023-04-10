@@ -1,0 +1,19 @@
+﻿<Application x:Class="Messenger.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Messenger"
+             StartupUri="Views/MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Infrastructure/Resourses/CustomTextBox.xaml"></ResourceDictionary>
+                <ResourceDictionary Source="Infrastructure/Resourses/WindowStyle.xaml"></ResourceDictionary>
+                <ResourceDictionary Source="Infrastructure/Resourses/FriendListStyle.xaml"></ResourceDictionary>
+                <ResourceDictionary Source="Infrastructure/Resourses/ChatStyle.xaml"></ResourceDictionary>
+                <ResourceDictionary Source="Infrastructure/Resourses/TopBorderButtonStyle.xaml"></ResourceDictionary>
+                <ResourceDictionary Source="Infrastructure/Resourses/AddFriendBtnStyle.xaml"></ResourceDictionary>
+                <ResourceDictionary Source="Infrastructure/Resourses/UsersListViewStyle.xaml"></ResourceDictionary>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
