@@ -8,11 +8,11 @@
         Title="AddFriendWindow" Height="600" Width="800"
         AllowsTransparency="True"
         WindowStartupLocation="CenterScreen"
-      
-        
         WindowStyle="None"
         xmlns:vm="clr-namespace:Messenger.ViewModels"
         >
+    
+    
     <Window.DataContext>
         <vm:AddFriendViewModel x:Name="AddFriendViewModel"></vm:AddFriendViewModel>
     </Window.DataContext>
@@ -58,13 +58,19 @@
                         >
                    
                 </Button>
-            <ListView Width="360" Height="400"
+            <ListView Width="360" Height="200"
                       ItemContainerStyle="{StaticResource UsersListViewItem}"
                       ItemsSource="{Binding AllUsers}"
                     
                       >
                 
             </ListView>
+
+            <Button Width="250" Height="200"
+                    Style="{StaticResource GradientBtn}"
+                    >
+                    
+            </Button>
             
             </StackPanel>
        

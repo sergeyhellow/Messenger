@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\User\Documents\C# projekts2\Messenger\Messenger\App.xaml
-91545342901
+10-500301862
 
 21172039717
 171026283621
-Infrastructure\Resourses\AddFriendBtnStyle.xaml;Infrastructure\Resourses\ChatStyle.xaml;Infrastructure\Resourses\CustomTextBox.xaml;Infrastructure\Resourses\FriendListStyle.xaml;Infrastructure\Resourses\TopBorderButtonStyle.xaml;Infrastructure\Resourses\UsersListViewStyle.xaml;Infrastructure\Resourses\WindowStyle.xaml;ViewModels\AddFriendWindow.xaml;Views\MainWindow.xaml;
+Infrastructure\Resourses\AddFriendBtnStyle.xaml;Infrastructure\Resourses\ChatStyle.xaml;Infrastructure\Resourses\CustomTextBox.xaml;Infrastructure\Resourses\FriendListStyle.xaml;Infrastructure\Resourses\GradientBtnStyle.xaml;Infrastructure\Resourses\TopBorderButtonStyle.xaml;Infrastructure\Resourses\UsersListViewStyle.xaml;Infrastructure\Resourses\WindowStyle.xaml;ViewModels\AddFriendWindow.xaml;Views\MainWindow.xaml;
 
 False
 

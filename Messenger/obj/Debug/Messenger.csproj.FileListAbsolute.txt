@@ -34,3 +34,4 @@ C:\Users\User\Documents\C# projekts2\Messenger\Messenger\obj\Debug\ViewModels\Ad
 C:\Users\User\Documents\C# projekts2\Messenger\Messenger\obj\Debug\Infrastructure\Resourses\TopBorderButtonStyle.baml
 C:\Users\User\Documents\C# projekts2\Messenger\Messenger\obj\Debug\Infrastructure\Resourses\AddFriendBtnStyle.baml
 C:\Users\User\Documents\C# projekts2\Messenger\Messenger\obj\Debug\Infrastructure\Resourses\UsersListViewStyle.baml
+C:\Users\User\Documents\C# projekts2\Messenger\Messenger\obj\Debug\Infrastructure\Resourses\GradientBtnStyle.baml
